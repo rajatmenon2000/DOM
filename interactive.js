@@ -16,5 +16,4 @@ function changeStuff() {
     para.innerHTML = paraPmt;
     imageUrl.innerHTML = imageUrlPmt;
     imageAlt.innerHTML = imageAltPmt;
-
 }
